@@ -1,0 +1,2291 @@
+{
+ "input_path": "/home/coreyd@uvic.ca/paddle-golden/p013_small.png",
+ "page_index": null,
+ "page_count": null,
+ "width": 2560,
+ "height": 3295,
+ "model_settings": {
+  "use_doc_preprocessor": false,
+  "use_layout_detection": true,
+  "use_chart_recognition": false,
+  "use_seal_recognition": false,
+  "use_ocr_for_image_block": false,
+  "format_block_content": false,
+  "merge_layout_blocks": true,
+  "markdown_ignore_labels": [
+   "number",
+   "footnote",
+   "header",
+   "header_image",
+   "footer",
+   "footer_image",
+   "aside_text"
+  ],
+  "return_layout_polygon_points": true
+ },
+ "parsing_res_list": [
+  {
+   "block_label": "header",
+   "block_content": "THE DAILY COLONIST. VICTORIA. B.C.",
+   "block_bbox": [
+    1056,
+    273,
+    1531,
+    304
+   ],
+   "block_id": 0,
+   "block_order": null,
+   "group_id": 0,
+   "block_polygon_points": [
+    [
+     1056.0,
+     273.0
+    ],
+    [
+     1531.0,
+     273.0
+    ],
+    [
+     1531.0,
+     304.0
+    ],
+    [
+     1056.0,
+     304.0
+    ]
+   ]
+  },
+  {
+   "block_label": "doc_title",
+   "block_content": "The Colonist's Pictorial Page",
+   "block_bbox": [
+    420,
+    376,
+    2030,
+    467
+   ],
+   "block_id": 1,
+   "block_order": 1,
+   "group_id": 1,
+   "block_polygon_points": [
+    [
+     420.0,
+     376.0
+    ],
+    [
+     2030.0,
+     376.0
+    ],
+    [
+     2030.0,
+     467.0
+    ],
+    [
+     420.0,
+     467.0
+    ]
+   ]
+  },
+  {
+   "block_label": "text",
+   "block_content": "*",
+   "block_bbox": [
+    2099,
+    397,
+    2173,
+    455
+   ],
+   "block_id": 2,
+   "block_order": 2,
+   "group_id": 2,
+   "block_polygon_points": [
+    [
+     2099.0,
+     397.0
+    ],
+    [
+     2173.0,
+     397.0
+    ],
+    [
+     2173.0,
+     455.0
+    ],
+    [
+     2099.0,
+     455.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image depicts a black-and-white illustration of the schooner \"Ptarmigan\" of the Topographical Survey of Canada docked in a harbor at Lockhart River, located at the eastern end of Great Slave Lake. The schooner is surrounded by trees and water, with a flag flying atop its mast. No text is visible within the image itself; however, the caption below reads: \"The schooner 'Ptarmigan' of the Topographical Survey of Canada is shown in the harbor at Lockhart river at the east end of Great Slave Lake.\"",
+   "block_bbox": [
+    332,
+    577,
+    724,
+    1079
+   ],
+   "block_id": 3,
+   "block_order": null,
+   "group_id": 3,
+   "block_polygon_points": [
+    [
+     332.0,
+     577.0
+    ],
+    [
+     724.0,
+     577.0
+    ],
+    [
+     724.0,
+     1079.0
+    ],
+    [
+     332.0,
+     1079.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "The schooner \"Ptarmigan\" of the Topographical Survey of Canada is shown in the harbor at Lockhart river at the east end of Great Slave Lake",
+   "block_bbox": [
+    336,
+    1088,
+    713,
+    1167
+   ],
+   "block_id": 4,
+   "block_order": null,
+   "group_id": 4,
+   "block_polygon_points": [
+    [
+     336.0,
+     1088.0
+    ],
+    [
+     713.0,
+     1088.0
+    ],
+    [
+     713.0,
+     1167.0
+    ],
+    [
+     336.0,
+     1167.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image is a black-and-white illustration or photograph from a 1925 Canadian newspaper (The Daily Colonist, Victoria BC) featuring a man wearing a hat and a scarf. The caption below the image reads: \"Here's introducing the leading lady, 'Miss Blanche Bailey,' as portrayed by J. D. Barrett of Yale University in the play the college gave in New York.\"",
+   "block_bbox": [
+    727,
+    577,
+    1124,
+    1082
+   ],
+   "block_id": 5,
+   "block_order": null,
+   "group_id": 5,
+   "block_polygon_points": [
+    [
+     727.0,
+     577.0
+    ],
+    [
+     1124.0,
+     577.0
+    ],
+    [
+     1124.0,
+     1082.0
+    ],
+    [
+     727.0,
+     1082.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "Here's introducing the leading lady, \"Miss Blanche Bailey,\" as portrayed by J. D. Barrett of Yale University in the play the college gave in New York",
+   "block_bbox": [
+    749,
+    1088,
+    1125,
+    1162
+   ],
+   "block_id": 6,
+   "block_order": null,
+   "group_id": 6,
+   "block_polygon_points": [
+    [
+     749.0,
+     1088.0
+    ],
+    [
+     1125.0,
+     1088.0
+    ],
+    [
+     1125.0,
+     1162.0
+    ],
+    [
+     749.0,
+     1162.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image shows Miss Betty Howlett, a 12-year-old mayoress, sitting at a table with a map spread out in front of her. The map appears to be of Canada, suggesting she might be studying geography or preparing for her civic duties. The caption below the image states: \"Miss Betty Howlett, the twelve-year-old mayoress, has just returned to school in Leicester after undergoing her civic duties in London, where her father is the mayor of Richmond. She is the youngest mayoress in England.\"",
+   "block_bbox": [
+    1173,
+    566,
+    1698,
+    1032
+   ],
+   "block_id": 7,
+   "block_order": null,
+   "group_id": 7,
+   "block_polygon_points": [
+    [
+     1173.0,
+     566.0
+    ],
+    [
+     1698.0,
+     566.0
+    ],
+    [
+     1698.0,
+     1032.0
+    ],
+    [
+     1173.0,
+     1032.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "Miss Betty Howlett, the twelve-year-old mayoress, has just returned to school in Leicester after undergoing her civic duties in London, where her father is the mayor of Richmond. She is the youngest mayoress in England",
+   "block_bbox": [
+    1176,
+    1034,
+    1702,
+    1108
+   ],
+   "block_id": 8,
+   "block_order": null,
+   "group_id": 8,
+   "block_polygon_points": [
+    [
+     1176.0,
+     1034.0
+    ],
+    [
+     1702.0,
+     1034.0
+    ],
+    [
+     1702.0,
+     1108.0
+    ],
+    [
+     1176.0,
+     1108.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image depicts a historical scene from 1925 showing the Prince Regent of Japan visiting the naval college at Tokyo during annual commencement exercises. The photograph captures the prince walking alongside other individuals, with the naval college building prominently featured in the background. The text visible in the image reads: \"The Prince Regent of Japan visits the naval college at Tokio for the annual commencement exercises. H.R.H. is the second man from the front.\"",
+   "block_bbox": [
+    1749,
+    567,
+    2273,
+    1026
+   ],
+   "block_id": 9,
+   "block_order": null,
+   "group_id": 9,
+   "block_polygon_points": [
+    [
+     1749.0,
+     567.0
+    ],
+    [
+     2273.0,
+     567.0
+    ],
+    [
+     2273.0,
+     1026.0
+    ],
+    [
+     1749.0,
+     1026.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "The Prince Regent of Japan visits the naval college at Tokio for the annual commencement exercises. H.R.H. is the second man from the front",
+   "block_bbox": [
+    1754,
+    1040,
+    2275,
+    1095
+   ],
+   "block_id": 10,
+   "block_order": null,
+   "group_id": 10,
+   "block_polygon_points": [
+    [
+     1754.0,
+     1040.0
+    ],
+    [
+     2275.0,
+     1040.0
+    ],
+    [
+     2275.0,
+     1095.0
+    ],
+    [
+     1754.0,
+     1095.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image depicts a group of individuals, possibly soldiers, gathered around a horse-drawn cart in front of a damaged building with a partially collapsed roof. The scene suggests a historical event involving a mutiny by local police in Gardai, India, where they occupied a blockhouse and defied the authorities. The caption below the image states: \"When some irregular local police mutinied at Gardai, India, they took possession of a block house and defied the world. A small British gun, however, upset their calculations and they were captured.\"",
+   "block_bbox": [
+    333,
+    1189,
+    862,
+    1583
+   ],
+   "block_id": 11,
+   "block_order": null,
+   "group_id": 11,
+   "block_polygon_points": [
+    [
+     333.0,
+     1189.0
+    ],
+    [
+     862.0,
+     1189.0
+    ],
+    [
+     862.0,
+     1583.0
+    ],
+    [
+     333.0,
+     1583.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "When some irregular local police mutinied at Gardai, India, they took possession of a block house and defied the world. A small British gun, however, upset their calculations and they were captured",
+   "block_bbox": [
+    332,
+    1589,
+    856,
+    1657
+   ],
+   "block_id": 12,
+   "block_order": null,
+   "group_id": 12,
+   "block_polygon_points": [
+    [
+     332.0,
+     1589.0
+    ],
+    [
+     856.0,
+     1589.0
+    ],
+    [
+     856.0,
+     1657.0
+    ],
+    [
+     332.0,
+     1657.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image is a black-and-white photograph of Rupert Hughes, a well-known novelist and movie director, as mentioned in the caption below the image. He is dressed formally in a suit with a bow tie. The caption also mentions that Hughes is to be married to Elizabeth Patterson Dial, a movie star, early the following year, which will be Hughes' third marriage.",
+   "block_bbox": [
+    352,
+    1683,
+    582,
+    2134
+   ],
+   "block_id": 13,
+   "block_order": null,
+   "group_id": 13,
+   "block_polygon_points": [
+    [
+     352.0,
+     1683.0
+    ],
+    [
+     582.0,
+     1683.0
+    ],
+    [
+     582.0,
+     2134.0
+    ],
+    [
+     352.0,
+     2134.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image shows R. P. Tolman, curator of graphic arts at the Smithsonian Institute, reading a very small letter that fits inside the eye of a needle. The subject is Tolman, and the activity depicted is him reading an extremely tiny letter. There is no visible text within the image itself, but the caption below reads: \"R. P. Tolman, curator of graphic arts at the Smithsonian Institute, Washington, is shown reading a letter of forty-four words, which is so small it is contained in the eye of a needle.\"",
+   "block_bbox": [
+    1480,
+    1123,
+    1870,
+    1615
+   ],
+   "block_id": 14,
+   "block_order": null,
+   "group_id": 14,
+   "block_polygon_points": [
+    [
+     1480.0,
+     1123.0
+    ],
+    [
+     1870.0,
+     1123.0
+    ],
+    [
+     1870.0,
+     1615.0
+    ],
+    [
+     1480.0,
+     1615.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image depicts two individuals standing next to a vehicle labeled \"AMBULANCE\" with the text \"Society for Prevention of Cruelty to Animals\" visible above it. The setting appears to be outdoors, possibly near a building entrance. The individuals are dressed in what seems to be early 20th-century attire, suggesting the photo's historical context. The caption below the image indicates that the Society for Prevention of Cruelty to Animals in New York City has acquired an ambulance equipped for emergency animal care.",
+   "block_bbox": [
+    915,
+    1180,
+    1415,
+    1676
+   ],
+   "block_id": 15,
+   "block_order": null,
+   "group_id": 15,
+   "block_polygon_points": [
+    [
+     915.0,
+     1180.0
+    ],
+    [
+     1415.0,
+     1180.0
+    ],
+    [
+     1415.0,
+     1676.0
+    ],
+    [
+     915.0,
+     1676.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image depicts an Indian mother and child resting during their journey with pack horses through Northern Alberta. The photograph captures a moment of rest as they travel to another part of the country. No text is visible within the image itself; however, the caption below reads: \"An Indian mother and child are shown resting for dinner while en route with pack horses to another part of the country. This photograph was taken in Northern Alberta by the Topographical Survey of Canada.\"",
+   "block_bbox": [
+    1891,
+    1111,
+    2270,
+    1613
+   ],
+   "block_id": 16,
+   "block_order": null,
+   "group_id": 16,
+   "block_polygon_points": [
+    [
+     1891.0,
+     1111.0
+    ],
+    [
+     2270.0,
+     1111.0
+    ],
+    [
+     2270.0,
+     1613.0
+    ],
+    [
+     1891.0,
+     1613.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "R. P. Tolman, curator of graphic arts at the Smithsonian Institute, Washington, is shown reading a letter of forty-four words, which is so small it is contained in the eye of a needle",
+   "block_bbox": [
+    1483,
+    1623,
+    1863,
+    1707
+   ],
+   "block_id": 17,
+   "block_order": null,
+   "group_id": 17,
+   "block_polygon_points": [
+    [
+     1483.0,
+     1623.0
+    ],
+    [
+     1863.0,
+     1623.0
+    ],
+    [
+     1863.0,
+     1707.0
+    ],
+    [
+     1483.0,
+     1707.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image shows Elizabeth Patterson Dial, a movie star, as described in the caption. She is wearing a light-colored top with a rounded neckline. The caption below the image reads: \"Rupert Hughes, well-known novelist and movie director, and Elizabeth Patterson Dial, movie star, are to be married early next year, according to her relatives. This will be Hughes' third matrimonial adventure.\"",
+   "block_bbox": [
+    584,
+    1684,
+    830,
+    2133
+   ],
+   "block_id": 18,
+   "block_order": null,
+   "group_id": 18,
+   "block_polygon_points": [
+    [
+     584.0,
+     1684.0
+    ],
+    [
+     830.0,
+     1684.0
+    ],
+    [
+     830.0,
+     2133.0
+    ],
+    [
+     584.0,
+     2133.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "The society for Prevention of Cruelty to Animals now has an ambulance in New York City equipped for emergency operations on dogs and other animals",
+   "block_bbox": [
+    909,
+    1679,
+    1428,
+    1736
+   ],
+   "block_id": 19,
+   "block_order": null,
+   "group_id": 19,
+   "block_polygon_points": [
+    [
+     909.0,
+     1679.0
+    ],
+    [
+     1428.0,
+     1679.0
+    ],
+    [
+     1428.0,
+     1736.0
+    ],
+    [
+     909.0,
+     1736.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "An Indian mother and child are shown resting for dinner while en route with pack horses to another part of the country. This photograph was taken in Northern Alberta by the Topographical Survey of Canada",
+   "block_bbox": [
+    1897,
+    1622,
+    2277,
+    1713
+   ],
+   "block_id": 20,
+   "block_order": null,
+   "group_id": 20,
+   "block_polygon_points": [
+    [
+     1897.0,
+     1622.0
+    ],
+    [
+     2277.0,
+     1622.0
+    ],
+    [
+     2277.0,
+     1713.0
+    ],
+    [
+     1897.0,
+     1713.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "Another wealthy young man has chosen a beauty from the \"Follies\" for his bride, the happy young woman being Mae Daw, wed to Graveraet Young Kaufman, son of Louis G. Kaufman, president of the Chatham and Phoenix National Bank, New York City",
+   "block_bbox": [
+    334,
+    2831,
+    857,
+    2923
+   ],
+   "block_id": 21,
+   "block_order": null,
+   "group_id": 21,
+   "block_polygon_points": [
+    [
+     334.0,
+     2831.0
+    ],
+    [
+     857.0,
+     2831.0
+    ],
+    [
+     857.0,
+     2923.0
+    ],
+    [
+     334.0,
+     2923.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "Rupert Hughes, well-known novelist and movie director, and Elizabeth Patterson Dial, movie star, are to be married early next year, according to her relatives. This will be Hughes' third matrimonial adventure",
+   "block_bbox": [
+    331,
+    2140,
+    856,
+    2213
+   ],
+   "block_id": 22,
+   "block_order": null,
+   "group_id": 22,
+   "block_polygon_points": [
+    [
+     331.0,
+     2140.0
+    ],
+    [
+     856.0,
+     2140.0
+    ],
+    [
+     856.0,
+     2213.0
+    ],
+    [
+     331.0,
+     2213.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image depicts a woman with long hair, wearing a light-colored top, and appears to be part of a newspaper illustration or photograph from 1925. The caption below the image mentions that a wealthy young man named Graveraet Young Kaufman married Mae Daw, who was a beauty from the \"Follies,\" and that Kaufman's father is Louis G. Kaufman, president of the Chatham and Phoenix National Bank in New York City.",
+   "block_bbox": [
+    335,
+    2222,
+    855,
+    2828
+   ],
+   "block_id": 23,
+   "block_order": null,
+   "group_id": 23,
+   "block_polygon_points": [
+    [
+     335.0,
+     2222.0
+    ],
+    [
+     855.0,
+     2222.0
+    ],
+    [
+     855.0,
+     2828.0
+    ],
+    [
+     335.0,
+     2828.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image is a black-and-white illustration of Dr. J. H. Jeans, a member of the Royal Astronomical Society in London. The subject is wearing formal attire, including a suit and tie. The caption below the image states: \"Dr. J. H. Jeans of the Royal Astronomical Society, London, comes forward with the startling idea that there is life on the planets adjoining the sun in the same proximity as the earth.\"",
+   "block_bbox": [
+    897,
+    1759,
+    1143,
+    2194
+   ],
+   "block_id": 24,
+   "block_order": null,
+   "group_id": 24,
+   "block_polygon_points": [
+    [
+     897.0,
+     1759.0
+    ],
+    [
+     1143.0,
+     1759.0
+    ],
+    [
+     1143.0,
+     2194.0
+    ],
+    [
+     897.0,
+     2194.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "Dr. J. H. Jeans of the Royal Astronomical Society, London, comes forward with the startling idea that there is life on the planets adjoining the sun in the same proximity as the earth",
+   "block_bbox": [
+    897,
+    2200,
+    1147,
+    2324
+   ],
+   "block_id": 25,
+   "block_order": null,
+   "group_id": 25,
+   "block_polygon_points": [
+    [
+     897.0,
+     2200.0
+    ],
+    [
+     1147.0,
+     2200.0
+    ],
+    [
+     1147.0,
+     2324.0
+    ],
+    [
+     897.0,
+     2324.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image is a black-and-white portrait of a woman identified as Maya, a world-famous London mannequin. The caption below the image states that Maya has secretly married Harold Baker in London, with Baker being described as a Canadian doing business in New York.",
+   "block_bbox": [
+    1190,
+    1754,
+    1708,
+    2249
+   ],
+   "block_id": 26,
+   "block_order": null,
+   "group_id": 26,
+   "block_polygon_points": [
+    [
+     1190.0,
+     1754.0
+    ],
+    [
+     1708.0,
+     1754.0
+    ],
+    [
+     1708.0,
+     2249.0
+    ],
+    [
+     1190.0,
+     2249.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "The Duke of Sutherland, one of the best known of England's titled men, is at Montreal, Southern France, seeking a divorce. It is reported that he will marry a prominent American girl",
+   "block_bbox": [
+    897,
+    2799,
+    1154,
+    2931
+   ],
+   "block_id": 27,
+   "block_order": null,
+   "group_id": 27,
+   "block_polygon_points": [
+    [
+     897.0,
+     2799.0
+    ],
+    [
+     1154.0,
+     2799.0
+    ],
+    [
+     1154.0,
+     2931.0
+    ],
+    [
+     897.0,
+     2931.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image is a black-and-white portrait of a man wearing formal attire, including a suit and a collared shirt. The subject appears to be a notable figure, as indicated by the caption below the image. The caption mentions that the individual is the Duke of Sutherland, a well-known titled man from England, who is currently in Montreal, Southern France, seeking a divorce. It also suggests that he plans to marry a prominent American girl. There is no visible text within the image itself.",
+   "block_bbox": [
+    893,
+    2332,
+    1148,
+    2797
+   ],
+   "block_id": 28,
+   "block_order": null,
+   "group_id": 28,
+   "block_polygon_points": [
+    [
+     893.0,
+     2332.0
+    ],
+    [
+     1148.0,
+     2332.0
+    ],
+    [
+     1148.0,
+     2797.0
+    ],
+    [
+     893.0,
+     2797.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "Maya, as she is known throughout Europe, the world-famous London mannequin, has secretly married Harold Baker in London, who is said to be a Canadian doing business in New York",
+   "block_bbox": [
+    1187,
+    2270,
+    1715,
+    2352
+   ],
+   "block_id": 29,
+   "block_order": null,
+   "group_id": 29,
+   "block_polygon_points": [
+    [
+     1187.0,
+     2270.0
+    ],
+    [
+     1715.0,
+     2270.0
+    ],
+    [
+     1715.0,
+     2352.0
+    ],
+    [
+     1187.0,
+     2352.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image depicts a group of women dressed in rowing uniforms, likely from Saint Sernin, who have recently won the championship in France. They are standing together, possibly posing for a photograph after their victory. The caption below the image reads: \"Here is the best women's rowing crew in France. The girls are from Saint Sernin and recently won the championship against the fastest teams in the country.\"",
+   "block_bbox": [
+    1195,
+    2386,
+    1691,
+    2846
+   ],
+   "block_id": 30,
+   "block_order": null,
+   "group_id": 30,
+   "block_polygon_points": [
+    [
+     1195.0,
+     2386.0
+    ],
+    [
+     1691.0,
+     2386.0
+    ],
+    [
+     1691.0,
+     2846.0
+    ],
+    [
+     1195.0,
+     2846.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "Here is the best women's rowing crew in France. The girls are from Saint Sernin and recently won the championship against the fastest teams in the country",
+   "block_bbox": [
+    1191,
+    2863,
+    1713,
+    2927
+   ],
+   "block_id": 31,
+   "block_order": null,
+   "group_id": 31,
+   "block_polygon_points": [
+    [
+     1191.0,
+     2863.0
+    ],
+    [
+     1713.0,
+     2863.0
+    ],
+    [
+     1713.0,
+     2927.0
+    ],
+    [
+     1191.0,
+     2927.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image depicts the bow of the American submarine V-1, which resembles the head of a giant whale. The submarine is currently in New York, preparing for its trial trip to Portsmouth. No text is visible within the image itself.",
+   "block_bbox": [
+    1755,
+    1730,
+    2277,
+    2134
+   ],
+   "block_id": 32,
+   "block_order": null,
+   "group_id": 32,
+   "block_polygon_points": [
+    [
+     1755.0,
+     1730.0
+    ],
+    [
+     2277.0,
+     1730.0
+    ],
+    [
+     2277.0,
+     2134.0
+    ],
+    [
+     1755.0,
+     2134.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "The bow of the newest of American submarines, the V-1, has the appearance of the head of a giant whale. The undersea dreadnought is now in New York, being made ready for its trial trip to Portsmouth",
+   "block_bbox": [
+    1753,
+    2136,
+    2279,
+    2214
+   ],
+   "block_id": 33,
+   "block_order": null,
+   "group_id": 33,
+   "block_polygon_points": [
+    [
+     1753.0,
+     2136.0
+    ],
+    [
+     2279.0,
+     2136.0
+    ],
+    [
+     2279.0,
+     2214.0
+    ],
+    [
+     1753.0,
+     2214.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image depicts Gwendolyn La Gallienne, a sculptress, in her Paris studio. She is holding a sculpture of a cat. The caption below the image reads: \"Gwendolyn La Gallienne, wife of the famous violinist, Andre Polah, daughter of the celebrated poet, Richard La Gallienne, and sister of the prominent actress, Eva La Gallienne, is seeking fame in her own right as a sculptress.\"",
+   "block_bbox": [
+    1747,
+    2227,
+    2275,
+    2829
+   ],
+   "block_id": 34,
+   "block_order": null,
+   "group_id": 34,
+   "block_polygon_points": [
+    [
+     1747.0,
+     2227.0
+    ],
+    [
+     2275.0,
+     2227.0
+    ],
+    [
+     2275.0,
+     2829.0
+    ],
+    [
+     1747.0,
+     2829.0
+    ]
+   ]
+  },
+  {
+   "block_label": "vision_footnote",
+   "block_content": "Gwendolyn La Gallienne, wife of the famous violinist, Andre Polah, daughter of the celebrated poet, Richard La Gallienne, and sister of the prominent actress, Eva La Gallienne, is seeking fame in her own right as a sculptress. She is shown in her Paris studio",
+   "block_bbox": [
+    1756,
+    2836,
+    2285,
+    2933
+   ],
+   "block_id": 35,
+   "block_order": null,
+   "group_id": 35,
+   "block_polygon_points": [
+    [
+     1756.0,
+     2836.0
+    ],
+    [
+     2285.0,
+     2836.0
+    ],
+    [
+     2285.0,
+     2933.0
+    ],
+    [
+     1756.0,
+     2933.0
+    ]
+   ]
+  },
+  {
+   "block_label": "image",
+   "block_content": "The image is a decorative border from a 1925 issue of The Daily Colonist, a newspaper published in Victoria, British Columbia. It features intricate line art with swirling patterns and small crosses, likely used as a header or footer design. No text is visible within the image itself.",
+   "block_bbox": [
+    322,
+    2973,
+    2197,
+    3063
+   ],
+   "block_id": 36,
+   "block_order": null,
+   "group_id": 36,
+   "block_polygon_points": [
+    [
+     425.0,
+     2973.0
+    ],
+    [
+     2196.0,
+     2973.0
+    ],
+    [
+     2196.0,
+     3062.0
+    ],
+    [
+     425.0,
+     3062.0
+    ]
+   ]
+  }
+ ],
+ "layout_det_res": {
+  "input_path": null,
+  "page_index": null,
+  "boxes": [
+   {
+    "cls_id": 12,
+    "label": "header",
+    "score": 0.7781291604042053,
+    "coordinate": [
+     1056,
+     273,
+     1531,
+     304
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1056.0,
+      273.0
+     ],
+     [
+      1531.0,
+      273.0
+     ],
+     [
+      1531.0,
+      304.0
+     ],
+     [
+      1056.0,
+      304.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 6,
+    "label": "doc_title",
+    "score": 0.8742315173149109,
+    "coordinate": [
+     420,
+     376,
+     2030,
+     467
+    ],
+    "order": 1,
+    "polygon_points": [
+     [
+      420.0,
+      376.0
+     ],
+     [
+      2030.0,
+      376.0
+     ],
+     [
+      2030.0,
+      467.0
+     ],
+     [
+      420.0,
+      467.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 22,
+    "label": "text",
+    "score": 0.3614358603954315,
+    "coordinate": [
+     2099,
+     397,
+     2173,
+     455
+    ],
+    "order": 2,
+    "polygon_points": [
+     [
+      2099.0,
+      397.0
+     ],
+     [
+      2173.0,
+      397.0
+     ],
+     [
+      2173.0,
+      455.0
+     ],
+     [
+      2099.0,
+      455.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9568065404891968,
+    "coordinate": [
+     332,
+     577,
+     724,
+     1079
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      332.0,
+      577.0
+     ],
+     [
+      724.0,
+      577.0
+     ],
+     [
+      724.0,
+      1079.0
+     ],
+     [
+      332.0,
+      1079.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.8913000822067261,
+    "coordinate": [
+     336,
+     1088,
+     713,
+     1167
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      336.0,
+      1088.0
+     ],
+     [
+      713.0,
+      1088.0
+     ],
+     [
+      713.0,
+      1167.0
+     ],
+     [
+      336.0,
+      1167.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9553266763687134,
+    "coordinate": [
+     727,
+     577,
+     1124,
+     1082
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      727.0,
+      577.0
+     ],
+     [
+      1124.0,
+      577.0
+     ],
+     [
+      1124.0,
+      1082.0
+     ],
+     [
+      727.0,
+      1082.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.8684359192848206,
+    "coordinate": [
+     749,
+     1088,
+     1125,
+     1162
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      749.0,
+      1088.0
+     ],
+     [
+      1125.0,
+      1088.0
+     ],
+     [
+      1125.0,
+      1162.0
+     ],
+     [
+      749.0,
+      1162.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.965910792350769,
+    "coordinate": [
+     1173,
+     566,
+     1698,
+     1032
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1173.0,
+      566.0
+     ],
+     [
+      1698.0,
+      566.0
+     ],
+     [
+      1698.0,
+      1032.0
+     ],
+     [
+      1173.0,
+      1032.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.9111576080322266,
+    "coordinate": [
+     1176,
+     1034,
+     1702,
+     1108
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1176.0,
+      1034.0
+     ],
+     [
+      1702.0,
+      1034.0
+     ],
+     [
+      1702.0,
+      1108.0
+     ],
+     [
+      1176.0,
+      1108.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9487675428390503,
+    "coordinate": [
+     1749,
+     567,
+     2273,
+     1026
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1749.0,
+      567.0
+     ],
+     [
+      2273.0,
+      567.0
+     ],
+     [
+      2273.0,
+      1026.0
+     ],
+     [
+      1749.0,
+      1026.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.9110895395278931,
+    "coordinate": [
+     1754,
+     1040,
+     2275,
+     1095
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1754.0,
+      1040.0
+     ],
+     [
+      2275.0,
+      1040.0
+     ],
+     [
+      2275.0,
+      1095.0
+     ],
+     [
+      1754.0,
+      1095.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9360753297805786,
+    "coordinate": [
+     333,
+     1189,
+     862,
+     1583
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      333.0,
+      1189.0
+     ],
+     [
+      862.0,
+      1189.0
+     ],
+     [
+      862.0,
+      1583.0
+     ],
+     [
+      333.0,
+      1583.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.8951941132545471,
+    "coordinate": [
+     332,
+     1589,
+     856,
+     1657
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      332.0,
+      1589.0
+     ],
+     [
+      856.0,
+      1589.0
+     ],
+     [
+      856.0,
+      1657.0
+     ],
+     [
+      332.0,
+      1657.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.8373551368713379,
+    "coordinate": [
+     352,
+     1683,
+     582,
+     2134
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      352.0,
+      1683.0
+     ],
+     [
+      582.0,
+      1683.0
+     ],
+     [
+      582.0,
+      2134.0
+     ],
+     [
+      352.0,
+      2134.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9613933563232422,
+    "coordinate": [
+     1480,
+     1123,
+     1870,
+     1615
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1480.0,
+      1123.0
+     ],
+     [
+      1870.0,
+      1123.0
+     ],
+     [
+      1870.0,
+      1615.0
+     ],
+     [
+      1480.0,
+      1615.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9639028906822205,
+    "coordinate": [
+     915,
+     1180,
+     1415,
+     1676
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      915.0,
+      1180.0
+     ],
+     [
+      1415.0,
+      1180.0
+     ],
+     [
+      1415.0,
+      1676.0
+     ],
+     [
+      915.0,
+      1676.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9660608768463135,
+    "coordinate": [
+     1891,
+     1111,
+     2270,
+     1613
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1891.0,
+      1111.0
+     ],
+     [
+      2270.0,
+      1111.0
+     ],
+     [
+      2270.0,
+      1613.0
+     ],
+     [
+      1891.0,
+      1613.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.9155120253562927,
+    "coordinate": [
+     1483,
+     1623,
+     1863,
+     1707
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1483.0,
+      1623.0
+     ],
+     [
+      1863.0,
+      1623.0
+     ],
+     [
+      1863.0,
+      1707.0
+     ],
+     [
+      1483.0,
+      1707.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.8868626952171326,
+    "coordinate": [
+     584,
+     1684,
+     830,
+     2133
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      584.0,
+      1684.0
+     ],
+     [
+      830.0,
+      1684.0
+     ],
+     [
+      830.0,
+      2133.0
+     ],
+     [
+      584.0,
+      2133.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.8913031816482544,
+    "coordinate": [
+     909,
+     1679,
+     1428,
+     1736
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      909.0,
+      1679.0
+     ],
+     [
+      1428.0,
+      1679.0
+     ],
+     [
+      1428.0,
+      1736.0
+     ],
+     [
+      909.0,
+      1736.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.9179680943489075,
+    "coordinate": [
+     1897,
+     1622,
+     2277,
+     1713
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1897.0,
+      1622.0
+     ],
+     [
+      2277.0,
+      1622.0
+     ],
+     [
+      2277.0,
+      1713.0
+     ],
+     [
+      1897.0,
+      1713.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.912746250629425,
+    "coordinate": [
+     334,
+     2831,
+     857,
+     2923
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      334.0,
+      2831.0
+     ],
+     [
+      857.0,
+      2831.0
+     ],
+     [
+      857.0,
+      2923.0
+     ],
+     [
+      334.0,
+      2923.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.8732500672340393,
+    "coordinate": [
+     331,
+     2140,
+     856,
+     2213
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      331.0,
+      2140.0
+     ],
+     [
+      856.0,
+      2140.0
+     ],
+     [
+      856.0,
+      2213.0
+     ],
+     [
+      331.0,
+      2213.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.959347665309906,
+    "coordinate": [
+     335,
+     2222,
+     855,
+     2828
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      335.0,
+      2222.0
+     ],
+     [
+      855.0,
+      2222.0
+     ],
+     [
+      855.0,
+      2828.0
+     ],
+     [
+      335.0,
+      2828.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9312668442726135,
+    "coordinate": [
+     897,
+     1759,
+     1143,
+     2194
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      897.0,
+      1759.0
+     ],
+     [
+      1143.0,
+      1759.0
+     ],
+     [
+      1143.0,
+      2194.0
+     ],
+     [
+      897.0,
+      2194.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.902683675289154,
+    "coordinate": [
+     897,
+     2200,
+     1147,
+     2324
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      897.0,
+      2200.0
+     ],
+     [
+      1147.0,
+      2200.0
+     ],
+     [
+      1147.0,
+      2324.0
+     ],
+     [
+      897.0,
+      2324.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9392293691635132,
+    "coordinate": [
+     1190,
+     1754,
+     1708,
+     2249
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1190.0,
+      1754.0
+     ],
+     [
+      1708.0,
+      1754.0
+     ],
+     [
+      1708.0,
+      2249.0
+     ],
+     [
+      1190.0,
+      2249.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.9092098474502563,
+    "coordinate": [
+     897,
+     2799,
+     1154,
+     2931
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      897.0,
+      2799.0
+     ],
+     [
+      1154.0,
+      2799.0
+     ],
+     [
+      1154.0,
+      2931.0
+     ],
+     [
+      897.0,
+      2931.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9359884858131409,
+    "coordinate": [
+     893,
+     2332,
+     1148,
+     2797
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      893.0,
+      2332.0
+     ],
+     [
+      1148.0,
+      2332.0
+     ],
+     [
+      1148.0,
+      2797.0
+     ],
+     [
+      893.0,
+      2797.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.8841891884803772,
+    "coordinate": [
+     1187,
+     2270,
+     1715,
+     2352
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1187.0,
+      2270.0
+     ],
+     [
+      1715.0,
+      2270.0
+     ],
+     [
+      1715.0,
+      2352.0
+     ],
+     [
+      1187.0,
+      2352.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9637916088104248,
+    "coordinate": [
+     1195,
+     2386,
+     1691,
+     2846
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1195.0,
+      2386.0
+     ],
+     [
+      1691.0,
+      2386.0
+     ],
+     [
+      1691.0,
+      2846.0
+     ],
+     [
+      1195.0,
+      2846.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.8938015103340149,
+    "coordinate": [
+     1191,
+     2863,
+     1713,
+     2927
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1191.0,
+      2863.0
+     ],
+     [
+      1713.0,
+      2863.0
+     ],
+     [
+      1713.0,
+      2927.0
+     ],
+     [
+      1191.0,
+      2927.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9630765914916992,
+    "coordinate": [
+     1755,
+     1730,
+     2277,
+     2134
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1755.0,
+      1730.0
+     ],
+     [
+      2277.0,
+      1730.0
+     ],
+     [
+      2277.0,
+      2134.0
+     ],
+     [
+      1755.0,
+      2134.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.8911367654800415,
+    "coordinate": [
+     1753,
+     2136,
+     2279,
+     2214
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1753.0,
+      2136.0
+     ],
+     [
+      2279.0,
+      2136.0
+     ],
+     [
+      2279.0,
+      2214.0
+     ],
+     [
+      1753.0,
+      2214.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.9613345265388489,
+    "coordinate": [
+     1747,
+     2227,
+     2275,
+     2829
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1747.0,
+      2227.0
+     ],
+     [
+      2275.0,
+      2227.0
+     ],
+     [
+      2275.0,
+      2829.0
+     ],
+     [
+      1747.0,
+      2829.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 24,
+    "label": "vision_footnote",
+    "score": 0.8964677453041077,
+    "coordinate": [
+     1756,
+     2836,
+     2285,
+     2933
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      1756.0,
+      2836.0
+     ],
+     [
+      2285.0,
+      2836.0
+     ],
+     [
+      2285.0,
+      2933.0
+     ],
+     [
+      1756.0,
+      2933.0
+     ]
+    ]
+   },
+   {
+    "cls_id": 14,
+    "label": "image",
+    "score": 0.3988003432750702,
+    "coordinate": [
+     322,
+     2973,
+     2197,
+     3063
+    ],
+    "order": null,
+    "polygon_points": [
+     [
+      425.0,
+      2973.0
+     ],
+     [
+      2196.0,
+      2973.0
+     ],
+     [
+      2196.0,
+      3062.0
+     ],
+     [
+      425.0,
+      3062.0
+     ]
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+# Modern query forms -> 1925 orthography (bidirectional groups)
+# StandardTokenizer splits hyphenated forms, so "to-day" indexes as "to","day";
+# multi-word expansions below handle that.
+today, to day
+tomorrow, to morrow
+tonight, to night
+percent, per cent
+goodbye, good bye, good by
+cooperate, co operate
+cooperation, co operation
+cooperative, co operative
+reelect, re elect
+reelection, re election

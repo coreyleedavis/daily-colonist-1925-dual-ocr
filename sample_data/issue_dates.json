@@ -1,0 +1,1874 @@
+{
+ "dailycolonist0125uvic_0": {
+  "date": "1925-01-01",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_1": {
+  "date": "1925-01-02",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist0125uvic_10": {
+  "date": "1925-01-13",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_11": {
+  "date": "1925-01-14",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_12": {
+  "date": "1925-01-15",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_13": {
+  "date": "1925-01-16",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_14": {
+  "date": "1925-01-17",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_15": {
+  "date": "1925-01-18",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_16": {
+  "date": "1925-01-20",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_17": {
+  "date": "1925-01-21",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist0125uvic_18": {
+  "date": "1925-01-22",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_19": {
+  "date": "1925-01-23",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_2": {
+  "date": "1925-01-03",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_20": {
+  "date": "1925-01-24",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_21": {
+  "date": "1925-01-25",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_22": {
+  "date": "1925-01-27",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_23": {
+  "date": "1925-01-28",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_24": {
+  "date": "1925-01-29",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_25": {
+  "date": "1925-01-30",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_26": {
+  "date": "1925-01-31",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_27": {
+  "date": "1925-02-01",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_28": {
+  "date": "1925-02-03",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist0125uvic_29": {
+  "date": "1925-02-04",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_3": {
+  "date": "1925-01-04",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_30": {
+  "date": "1925-02-05",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_31": {
+  "date": "1925-02-06",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_32": {
+  "date": "1925-02-07",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_33": {
+  "date": "1925-02-08",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist0125uvic_34": {
+  "date": "1925-02-10",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_35": {
+  "date": "1925-02-11",
+  "weekday": "Wednesday",
+  "flag": true,
+  "source": "inferred"
+ },
+ "dailycolonist0125uvic_36": {
+  "date": "1925-02-12",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_37": {
+  "date": "1925-02-13",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_38": {
+  "date": "1925-02-14",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_39": {
+  "date": "1925-02-15",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_4": {
+  "date": "1925-01-06",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_40": {
+  "date": "1925-02-17",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_41": {
+  "date": "1925-02-18",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_42": {
+  "date": "1925-02-19",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_43": {
+  "date": "1925-02-20",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_44": {
+  "date": "1925-02-21",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_45": {
+  "date": "1925-02-22",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_46": {
+  "date": "1925-02-24",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_47": {
+  "date": "1925-02-25",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_48": {
+  "date": "1925-02-26",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_49": {
+  "date": "1925-02-27",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_5": {
+  "date": "1925-01-07",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_50": {
+  "date": "1925-02-28",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_6": {
+  "date": "1925-01-08",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_7": {
+  "date": "1925-01-09",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_8": {
+  "date": "1925-01-10",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0125uvic_9": {
+  "date": "1925-01-11",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_0": {
+  "date": "1925-03-01",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_1": {
+  "date": "1925-03-03",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_10": {
+  "date": "1925-03-13",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_11": {
+  "date": "1925-03-14",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_12": {
+  "date": "1925-03-15",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_13": {
+  "date": "1925-03-17",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_14": {
+  "date": "1925-03-18",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_15": {
+  "date": "1925-03-19",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_16": {
+  "date": "1925-03-20",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_17": {
+  "date": "1925-03-21",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_18": {
+  "date": "1925-03-22",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_19": {
+  "date": "1925-03-24",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_2": {
+  "date": "1925-03-04",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_20": {
+  "date": "1925-03-25",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_21": {
+  "date": "1925-03-26",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_22": {
+  "date": "1925-03-27",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_23": {
+  "date": "1925-03-28",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_24": {
+  "date": "1925-03-29",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_25": {
+  "date": "1925-03-31",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_26": {
+  "date": "1925-04-01",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_27": {
+  "date": "1925-04-02",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_28": {
+  "date": "1925-04-03",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_29": {
+  "date": "1925-04-04",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_3": {
+  "date": "1925-03-05",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_30": {
+  "date": "1925-04-05",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_31": {
+  "date": "1925-04-07",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_32": {
+  "date": "1925-04-08",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_33": {
+  "date": "1925-04-09",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_34": {
+  "date": "1925-04-10",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_35": {
+  "date": "1925-04-11",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_36": {
+  "date": "1925-04-12",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_37": {
+  "date": "1925-04-14",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_38": {
+  "date": "1925-04-15",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_39": {
+  "date": "1925-04-16",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_4": {
+  "date": "1925-03-06",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_40": {
+  "date": "1925-04-17",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_41": {
+  "date": "1925-04-18",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_42": {
+  "date": "1925-04-19",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_43": {
+  "date": "1925-04-21",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_44": {
+  "date": "1925-04-22",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_45": {
+  "date": "1925-04-23",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_46": {
+  "date": "1925-04-24",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_47": {
+  "date": "1925-04-25",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_48": {
+  "date": "1925-04-26",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_49": {
+  "date": "1925-04-28",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_5": {
+  "date": "1925-03-07",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist0325uvic_50": {
+  "date": "1925-04-29",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_51": {
+  "date": "1925-04-30",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_6": {
+  "date": "1925-03-08",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_7": {
+  "date": "1925-03-10",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_8": {
+  "date": "1925-03-11",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0325uvic_9": {
+  "date": "1925-03-12",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_0": {
+  "date": "1925-05-01",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_1": {
+  "date": "1925-05-02",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_10": {
+  "date": "1925-05-13",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_11": {
+  "date": "1925-05-14",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_12": {
+  "date": "1925-05-15",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_13": {
+  "date": "1925-05-16",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_14": {
+  "date": "1925-05-17",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_15": {
+  "date": "1925-05-19",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_16": {
+  "date": "1925-05-20",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_17": {
+  "date": "1925-05-21",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_18": {
+  "date": "1925-05-22",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_19": {
+  "date": "1925-05-23",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_2": {
+  "date": "1925-05-03",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_20": {
+  "date": "1925-05-24",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist0525uvic_21": {
+  "date": "1925-05-26",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_22": {
+  "date": "1925-05-27",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_23": {
+  "date": "1925-05-28",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_24": {
+  "date": "1925-05-29",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_25": {
+  "date": "1925-05-30",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_26": {
+  "date": "1925-05-31",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_27": {
+  "date": "1925-06-02",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_28": {
+  "date": "1925-06-03",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_29": {
+  "date": "1925-06-04",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_3": {
+  "date": "1925-05-05",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_30": {
+  "date": "1925-06-05",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_31": {
+  "date": "1925-06-06",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_32": {
+  "date": "1925-06-07",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist0525uvic_33": {
+  "date": "1925-06-09",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_34": {
+  "date": "1925-06-10",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_35": {
+  "date": "1925-06-11",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_36": {
+  "date": "1925-06-12",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_37": {
+  "date": "1925-06-13",
+  "weekday": "Saturday",
+  "flag": true,
+  "source": "inferred"
+ },
+ "dailycolonist0525uvic_38": {
+  "date": "1925-06-14",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_39": {
+  "date": "1925-06-16",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_4": {
+  "date": "1925-05-06",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_40": {
+  "date": "1925-06-17",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_41": {
+  "date": "1925-06-18",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_42": {
+  "date": "1925-06-19",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_43": {
+  "date": "1925-06-20",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_44": {
+  "date": "1925-06-21",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_45": {
+  "date": "1925-06-23",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_46": {
+  "date": "1925-06-24",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_47": {
+  "date": "1925-06-25",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_48": {
+  "date": "1925-06-26",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_49": {
+  "date": "1925-06-27",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_5": {
+  "date": "1925-05-07",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_50": {
+  "date": "1925-06-28",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_51": {
+  "date": "1925-06-30",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_6": {
+  "date": "1925-05-08",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_7": {
+  "date": "1925-05-09",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_8": {
+  "date": "1925-05-10",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0525uvic_9": {
+  "date": "1925-05-12",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_0": {
+  "date": "1925-07-01",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_1": {
+  "date": "1925-07-02",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_10": {
+  "date": "1925-07-12",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_11": {
+  "date": "1925-07-14",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_12": {
+  "date": "1925-07-15",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_13": {
+  "date": "1925-07-16",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_14": {
+  "date": "1925-07-17",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_15": {
+  "date": "1925-07-18",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_16": {
+  "date": "1925-07-19",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_17": {
+  "date": "1925-07-21",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_18": {
+  "date": "1925-07-22",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_19": {
+  "date": "1925-07-23",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_2": {
+  "date": "1925-07-03",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_20": {
+  "date": "1925-07-24",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist0725uvic_21": {
+  "date": "1925-07-25",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_22": {
+  "date": "1925-07-26",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_23": {
+  "date": "1925-07-28",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_24": {
+  "date": "1925-07-29",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_25": {
+  "date": "1925-07-30",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_26": {
+  "date": "1925-07-31",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_27": {
+  "date": "1925-08-01",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_28": {
+  "date": "1925-08-02",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist0725uvic_29": {
+  "date": "1925-08-04",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_3": {
+  "date": "1925-07-04",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_30": {
+  "date": "1925-08-05",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_31": {
+  "date": "1925-08-06",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_32": {
+  "date": "1925-08-07",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_33": {
+  "date": "1925-08-08",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_34": {
+  "date": "1925-08-09",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_35": {
+  "date": "1925-08-11",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_36": {
+  "date": "1925-08-12",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_37": {
+  "date": "1925-08-13",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_38": {
+  "date": "1925-08-14",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_39": {
+  "date": "1925-08-15",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_4": {
+  "date": "1925-07-05",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_40": {
+  "date": "1925-08-16",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_41": {
+  "date": "1925-08-18",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_42": {
+  "date": "1925-08-19",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_43": {
+  "date": "1925-08-20",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_44": {
+  "date": "1925-08-21",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_45": {
+  "date": "1925-08-22",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_46": {
+  "date": "1925-08-23",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_47": {
+  "date": "1925-08-25",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_48": {
+  "date": "1925-08-26",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_49": {
+  "date": "1925-08-27",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_5": {
+  "date": "1925-07-07",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_50": {
+  "date": "1925-08-28",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_51": {
+  "date": "1925-08-29",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_52": {
+  "date": "1925-08-30",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_6": {
+  "date": "1925-07-08",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_7": {
+  "date": "1925-07-09",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_8": {
+  "date": "1925-07-10",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0725uvic_9": {
+  "date": "1925-07-11",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_0": {
+  "date": "1925-09-01",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_1": {
+  "date": "1925-09-02",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_10": {
+  "date": "1925-09-13",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_11": {
+  "date": "1925-09-15",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_12": {
+  "date": "1925-09-16",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_13": {
+  "date": "1925-09-17",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_14": {
+  "date": "1925-09-18",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist0925uvic_15": {
+  "date": "1925-09-19",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_16": {
+  "date": "1925-09-20",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_17": {
+  "date": "1925-09-22",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_18": {
+  "date": "1925-09-23",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_19": {
+  "date": "1925-09-24",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_2": {
+  "date": "1925-09-03",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_20": {
+  "date": "1925-09-25",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_21": {
+  "date": "1925-09-26",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_22": {
+  "date": "1925-09-27",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_23": {
+  "date": "1925-09-29",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_24": {
+  "date": "1925-09-30",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_25": {
+  "date": "1925-10-01",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_26": {
+  "date": "1925-10-02",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist0925uvic_27": {
+  "date": "1925-10-03",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_28": {
+  "date": "1925-10-04",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_29": {
+  "date": "1925-10-06",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_3": {
+  "date": "1925-09-04",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_30": {
+  "date": "1925-10-07",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_31": {
+  "date": "1925-10-08",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_32": {
+  "date": "1925-10-09",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_33": {
+  "date": "1925-10-10",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_34": {
+  "date": "1925-10-11",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_35": {
+  "date": "1925-10-13",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_36": {
+  "date": "1925-10-14",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_37": {
+  "date": "1925-10-15",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_38": {
+  "date": "1925-10-16",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_39": {
+  "date": "1925-10-17",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_4": {
+  "date": "1925-09-05",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_40": {
+  "date": "1925-10-18",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_41": {
+  "date": "1925-10-20",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_42": {
+  "date": "1925-10-21",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_43": {
+  "date": "1925-10-22",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_44": {
+  "date": "1925-10-23",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_45": {
+  "date": "1925-10-24",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_46": {
+  "date": "1925-10-25",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_47": {
+  "date": "1925-10-27",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_48": {
+  "date": "1925-10-28",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_49": {
+  "date": "1925-10-29",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_5": {
+  "date": "1925-09-06",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_50": {
+  "date": "1925-10-30",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_51": {
+  "date": "1925-10-31",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_6": {
+  "date": "1925-09-09",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_7": {
+  "date": "1925-09-10",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_8": {
+  "date": "1925-09-11",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist0925uvic_9": {
+  "date": "1925-09-12",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_0": {
+  "date": "1925-11-01",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_1": {
+  "date": "1925-11-03",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_10": {
+  "date": "1925-11-13",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_11": {
+  "date": "1925-11-14",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_12": {
+  "date": "1925-11-15",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_13": {
+  "date": "1925-11-17",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_14": {
+  "date": "1925-11-18",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_15": {
+  "date": "1925-11-19",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_16": {
+  "date": "1925-11-20",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_17": {
+  "date": "1925-11-21",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_18": {
+  "date": "1925-11-22",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_19": {
+  "date": "1925-11-24",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_2": {
+  "date": "1925-11-04",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist1125uvic_20": {
+  "date": "1925-11-25",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_21": {
+  "date": "1925-11-26",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_22": {
+  "date": "1925-11-27",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_23": {
+  "date": "1925-11-28",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_24": {
+  "date": "1925-11-29",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_25": {
+  "date": "1925-12-01",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_26": {
+  "date": "1925-12-02",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_27": {
+  "date": "1925-12-03",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_28": {
+  "date": "1925-12-04",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist1125uvic_29": {
+  "date": "1925-12-05",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist1125uvic_3": {
+  "date": "1925-11-05",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_30": {
+  "date": "1925-12-06",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_31": {
+  "date": "1925-12-08",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_32": {
+  "date": "1925-12-09",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_33": {
+  "date": "1925-12-10",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_34": {
+  "date": "1925-12-11",
+  "weekday": "Friday",
+  "flag": true,
+  "source": "inferred"
+ },
+ "dailycolonist1125uvic_35": {
+  "date": "1925-12-12",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_36": {
+  "date": "1925-12-13",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_37": {
+  "date": "1925-12-14",
+  "weekday": "Monday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist1125uvic_38": {
+  "date": "1925-12-15",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_39": {
+  "date": "1925-12-16",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_4": {
+  "date": "1925-11-06",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_40": {
+  "date": "1925-12-17",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_41": {
+  "date": "1925-12-18",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_42": {
+  "date": "1925-12-19",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_43": {
+  "date": "1925-12-20",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_44": {
+  "date": "1925-12-22",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_45": {
+  "date": "1925-12-23",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_46": {
+  "date": "1925-12-24",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_47": {
+  "date": "1925-12-25",
+  "weekday": "Friday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_48": {
+  "date": "1925-12-27",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_49": {
+  "date": "1925-12-29",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "inferred"
+ },
+ "dailycolonist1125uvic_5": {
+  "date": "1925-11-07",
+  "weekday": "Saturday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_50": {
+  "date": "1925-12-30",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_51": {
+  "date": "1925-12-31",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_6": {
+  "date": "1925-11-08",
+  "weekday": "Sunday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_7": {
+  "date": "1925-11-10",
+  "weekday": "Tuesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_8": {
+  "date": "1925-11-11",
+  "weekday": "Wednesday",
+  "flag": false,
+  "source": "ocr"
+ },
+ "dailycolonist1125uvic_9": {
+  "date": "1925-11-12",
+  "weekday": "Thursday",
+  "flag": false,
+  "source": "ocr"
+ }
+}
