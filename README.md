@@ -6,6 +6,8 @@ Dual-pipeline OCR testbed for the 1925 *Daily Colonist* (6,647 newspaper pages):
 **Author:** Corey Davis
 **License:** MIT License 
 
+**In-depth documentation:** [How word-level bounding boxes are generated from the VLM's block-level output](docs/phase1-converter-technical-note.md) — the complete method, the rationale for each design decision, error characteristics, and annotated source.
+
 > **AI-assistance disclosure:** substantial portions of this codebase were written in AI-pair-development sessions with Claude Fable (Anthropic), under a verify-before-acting protocol. All code was executed and verified by the human author.
 
 ---
